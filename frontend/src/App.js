@@ -7,7 +7,6 @@ import Home from "./components/Home/Home";
 import Profile from "./components/Profile/Profile";
 import Navbar from "./components/General/Navbar";
 import "./App.css";
-import UpLoadImage from "./components/PhotoUpload/photoUpLoad";
 
 function App() {
   const [loggedIn, setLoggedIn] = useState(false);
